@@ -1,17 +1,13 @@
 # NgScaffold
 
-Angularプロジェクトの雛形
+### framework/packages
 
-## Node
-Version 12.14.0
-
-## 主なライブラリ
-Angular CLI => https://github.com/angular/angular-cli
-
-Prettier => https://prettier.io/
+1. node & npm
+2. [Angular](https://angular.jp/)
+3. Prettier
 
 ## 使い方
 
-1. ng-scaffoldをクローンする `git clone git@github.com:takeshiemoto/ng-scaffold.git <PROJECT_NAME>`
-2. リモートリポジトリを作成しURLを追加する `git remote add origin git@github.com:<OWNER>/<REPO_NAME>.git`
+1. ng-scaffold をクローンする `git clone git@github.com:takeshiemoto/ng-scaffold.git <PROJECT_NAME>`
+2. リモートリポジトリを作成し URL を追加する `git remote add origin git@github.com:<OWNER>/<REPO_NAME>.git`
 3. プッシュする `push current repo git push origin <BRANCH_NAME>`
