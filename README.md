@@ -9,5 +9,8 @@
 ## 使い方
 
 1. ng-scaffold をクローンする `git clone git@github.com:takeshiemoto/ng-scaffold.git <PROJECT_NAME>`
+1. originをリネームしてupstreamに変更 `git remote rename origin upstream`
 2. リモートリポジトリを作成し URL を追加する `git remote add origin git@github.com:<OWNER>/<REPO_NAME>.git`
 3. プッシュする `push current repo git push origin <BRANCH_NAME>`
+4. package.jsonを更新する `npm init`
+
